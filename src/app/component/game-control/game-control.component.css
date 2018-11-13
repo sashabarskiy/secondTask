@@ -1,0 +1,12 @@
+app-odd{
+  background: #5fcd1c;
+}
+app-even{
+  background: #ff781b;
+}
+app-odd, app-even{
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid blueviolet;
+}
+
